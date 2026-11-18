@@ -49,9 +49,9 @@ Se entrenó con Cascade Trainer GUI. Parámetros usados:
 - Falsos negativos: 5
 
 ## Limitaciones
-[Por ejemplo: funciona peor con poca luz, con ángulos distintos a los del dataset
-o con fondos muy diferentes a los usados al entrenar.]
+funciona peor con poca luz, con ángulos distintos a los del dataset
+o con fondos muy diferentes a los usados al entrenar.
 
 ## Posibles mejoras
-[Por ejemplo: más imágenes, más variedad de iluminación y fondos, más etapas de
-entrenamiento.]
+más imágenes, más variedad de iluminación y fondos, más etapas de
+entrenamiento.
